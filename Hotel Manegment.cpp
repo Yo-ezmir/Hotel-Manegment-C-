@@ -233,7 +233,7 @@ void deleteReservation() {
 
 
 void saveToFile(const string& filename) {
-    ofstream file(filename);
+    ofstream file(filename.c_str());
     if (!file) {
         cout << "Error opening file for saving!" << endl;
         return;
@@ -255,7 +255,7 @@ void saveToFile(const string& filename) {
 
 
 void loadFromFile(const string& filename) {
-    ifstream file(filename);
+    ifstream file(filename.c_str());
     if (!file) {
         cout << "No existing file found. Starting with an empty list." << endl;
         return;
