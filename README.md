@@ -11,6 +11,7 @@ Users can add, view, search, and delete reservations, as well as save/load data 
 - Delete a reservation by room number.
 - Save reservations to a file.
 - Load reservations from a file when the program starts.
+- Store data in a database ( MySQL)
 
 ## How to Run
 
