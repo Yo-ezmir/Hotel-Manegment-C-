@@ -24,10 +24,6 @@ Users can add, view, search, and delete reservations, as well as save/load data 
 - `HotelReservation.cpp` - Main source code file.
 - `reservations.txt` - Data file to save/load reservation details (auto-created).
 
-## Requirements
-
-- C++ compiler (compatible with C++11 or later)
-- Dev-C++ recommended for beginners.
 
 ## Author
 
