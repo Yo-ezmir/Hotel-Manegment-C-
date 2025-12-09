@@ -19,10 +19,6 @@ Users can add, view, search, and delete reservations, as well as save/load data 
 2. Run the executable.
 3. Follow the on-screen menu to manage reservations.
 
-## File Structure
-
-- `HotelReservation.cpp` - Main source code file.
-- `reservations.txt` - Data file to save/load reservation details (auto-created).
 
 
 ## Author
