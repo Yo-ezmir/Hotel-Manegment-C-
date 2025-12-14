@@ -17,7 +17,7 @@ Users can add, view, search, and delete reservations, as well as save/load data 
 
 1. Compile the program using Dev-C++ or any C++ compiler.
 2. Run the executable.
-3. Follow the on-screen menu to manage reservations.
+3. Finally, follow the on-screen menu to manage reservations.
 
 
 
